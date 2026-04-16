@@ -105,7 +105,6 @@ The Linear Regression model showed **moderate accuracy**, indicating a relations
 📦 imdb_data_analysis
  ┣ 📜 Project.ipynb
  ┣ 📜 README.md
- ┗ 📂 dataset (if included)
 ```
 
 ---
