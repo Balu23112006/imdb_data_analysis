@@ -109,7 +109,25 @@ The Linear Regression model showed **moderate accuracy**, indicating a relations
 ```
 
 ---
+## 📊 Visualizations
 
+### Movies vs TV Shows
+![Movies vs TV Shows](./Screenshot%202026-04-14%20123258.png)
+
+### Content Release Trend Over Years
+![Release Trend](./Screenshot%202026-04-14%20123313.png)
+
+### Top 10 Genres
+![Top Genres](./Screenshot%202026-04-14%20123408.png)
+
+### Top Production Countries
+![Countries](./Screenshot%202026-04-14%20123424.png)
+
+### IMDb Score Distribution
+![IMDb Distribution](./Screenshot%202026-04-14%20123441.png)
+
+### TMDB Popularity Distribution
+![TMDB Popularity](./Screenshot%202026-04-14%20123454.png)
 ## ▶️ How to Run
 
 1. Clone the repository:
