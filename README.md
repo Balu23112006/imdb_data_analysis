@@ -99,13 +99,7 @@ The Linear Regression model showed **moderate accuracy**, indicating a relations
 
 ---
 
-## 📁 Project Structure
 
-```
-📦 imdb_data_analysis
- ┣ 📜 Project.ipynb
- ┣ 📜 README.md
-```
 
 ---
 # 🎬 IMDb Data Analysis & Prediction
@@ -170,13 +164,7 @@ Thanks to:
 
 ---
 
-## 📧 Contact
 
-**M.B.S. Satya Prasad**
-📍 Lovely Professional University, India
-📧 [m.satyaprasad23@gmail.com](mailto:m.satyaprasad23@gmail.com)
-
----
 
 ## ⭐ If you like this project
 
