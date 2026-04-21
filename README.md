@@ -99,35 +99,30 @@ The Linear Regression model showed **moderate accuracy**, indicating a relations
 
 ---
 
-## 📁 Project Structure
 
-```
-📦 imdb_data_analysis
- ┣ 📜 Project.ipynb
- ┣ 📜 README.md
- ┗ 📂 dataset (if included)
-```
 
 ---
+# 🎬 IMDb Data Analysis & Prediction
+
 ## 📊 Visualizations
 
 ### Movies vs TV Shows
-![Movies vs TV Shows](./Screenshot%202026-04-14%20123258.png)
+![Movies vs TV Shows](./Images/p1.png)
 
 ### Content Release Trend Over Years
-![Release Trend](./Screenshot%202026-04-14%20123313.png)
+![Release Trend](./Images/p2.png)
 
 ### Top 10 Genres
-![Top Genres](./Screenshot%202026-04-14%20123408.png)
+![Top Genres](./Images/p3.png)
 
 ### Top Production Countries
-![Countries](./Screenshot%202026-04-14%20123424.png)
+![Countries](./Images/p4.png)
 
 ### IMDb Score Distribution
-![IMDb Distribution](./Screenshot%202026-04-14%20123441.png)
+![IMDb Distribution](./Images/p5.png)
 
 ### TMDB Popularity Distribution
-![TMDB Popularity](./Screenshot%202026-04-14%20123454.png)
+![TMDB Popularity](./Images/p6.png)
 ## ▶️ How to Run
 
 1. Clone the repository:
@@ -169,13 +164,7 @@ Thanks to:
 
 ---
 
-## 📧 Contact
 
-**M.B.S. Satya Prasad**
-📍 Lovely Professional University, India
-📧 [m.satyaprasad23@gmail.com](mailto:m.satyaprasad23@gmail.com)
-
----
 
 ## ⭐ If you like this project
 
